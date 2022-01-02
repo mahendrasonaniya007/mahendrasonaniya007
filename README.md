@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahendrasonaniya007
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning Phython 
+- 🌱 I’m currently learning Phython and AI,ML
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me 9685251018
 
